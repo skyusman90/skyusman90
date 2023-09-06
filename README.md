@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skyusman90
-- 👀 I’m interested in System Programming
+- 👀 I’m interested in System Programming & Game Development
 - 🌱 I’m currently learning C++
 
 <!---
